@@ -2,7 +2,12 @@
 
 <div align="center">
 
-![GitHub Profile Cover](https://github.com/user-attachments/assets/your-image-link)
+![Premium Photo _ Technology Network Background_](https://github.com/user-attachments/assets/29326f7e-0e92-4b2e-b09b-9618db8ae01c)
+
+
+
+
+ 
 
 </div>
 
