@@ -2,8 +2,9 @@
 
 <div align="center">
 
-![Premium Photo _ Technology Network Background_](https://github.com/user-attachments/assets/29326f7e-0e92-4b2e-b09b-9618db8ae01c)
 
+
+![Aurora borealis](https://github.com/user-attachments/assets/3def1a93-5c88-410d-ad50-956bb24b0fbd)
 
 
 
@@ -28,7 +29,7 @@
 
 <p align="center">
 <a href="https://linkedin.com/in/your-linkedin" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a> 
-<a href="https://github.com/hoda-20" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" /></a> 
+
 </p>
 
 ---
