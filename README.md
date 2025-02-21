@@ -6,7 +6,7 @@
 
 ![Aurora borealis](https://github.com/user-attachments/assets/3def1a93-5c88-410d-ad50-956bb24b0fbd)
 
-![download](https://github.com/user-attachments/assets/deeeb9db-343c-493a-bd71-93b71ed5abec)
+
 
 
  
@@ -29,7 +29,7 @@
 ## 👨‍💻 Let's Connect
 
 <p align="center">
-<a href="https://linkedin.com/in/your-linkedin" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a> 
+<a href="www.linkedin.com/in/hoda-ettougui" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a> 
 
 </p>
 
